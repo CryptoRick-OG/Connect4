@@ -1,6 +1,6 @@
 # My First Project
 
-I'm a student a Computer Science student at Codecademy. This is my first project in Python.
+I'm a Computer Science student at Codecademy. This is my first project in Python.
 
 ## Connect4
 **Connect 4** is a great 1st project choice because it is a simple game to code on my own at my current coding level. This project also features the opportunity to practice my AI skills by building a bot that plays the game *(coming soon!)*
